@@ -1,0 +1,24 @@
+{
+  "app": [
+    {
+      "id": 1,
+      "colorMode": "light",
+      "activeUserScope": "all"
+    }
+  ],
+  "users": [
+    {
+      "id": "389b48dc-c29b-4b80-8229-b9eef948e5b6",
+      "name": "수염",
+      "createdAt": "2026-05-14T01:30:37.939Z"
+    }
+  ],
+  "userBudgets": [
+    {
+      "id": "389b48dc-c29b-4b80-8229-b9eef948e5b6",
+      "monthlyLimit": null,
+      "yearlyLimit": null
+    }
+  ],
+  "transactions": []
+}
